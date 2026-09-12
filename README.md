@@ -51,3 +51,16 @@ useEffect is a React Hook used to perform side effects such as fetching data.
 I used useEffect in the TechnologySection component to fetch the technology data from the local JSON file when the component loads.
 
 ---
+## React Questions & Answers
+
+### 1. What is JSX, and why is it used in React?
+
+JSX is a syntax that allows us to write HTML-like code inside JavaScript or TypeScript. It makes React components easier to write and understand.
+
+---
+
+### 2. What is the difference between props and state?
+
+Props are used to pass data from a parent component to a child component. Props are read-only.
+
+State is data managed inside a component and can change when the user interacts with the application.
