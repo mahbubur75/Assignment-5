@@ -1,4 +1,4 @@
-[11:32 am, 12/09/2026] Mahbubur Rahman[Promoter]: # Dev Stack
+ # Dev Stack
 
 Dev Stack is a web application that helps users explore different development technologies and build their own technology stack. Users can view technology details, add technologies to their stack, and remove them whenever they want.
 
@@ -86,5 +86,4 @@ The main purpose of this project is to practice React concepts such as component
 
 ## Author
 
-Dev Stack Project
-[2:09 pm, 12/09/2026] Mahbubur Rahman[Promoter]: 
+Dev Stack Projec
