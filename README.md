@@ -86,4 +86,4 @@ The main purpose of this project is to practice React concepts such as component
 
 ## Author
 
-Dev Stack Projec
+Dev Stack Project
